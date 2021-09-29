@@ -75,6 +75,57 @@ a:hover{
     position: relative;
     top: 400px;
 }
+.header2{
+    font-family: IBM;
+    color: white;
+    font-size: 75px;
+    position: relative;
+    top: 160px;
+    left: 500px;
+    margin: 0px;
+    padding: 0px;
+    width: fit-content;
+}
+.paragraph{
+    color: whitesmoke;
+    font-family: IBM;
+    position: relative;
+    top: 150px;
+    left: 350px;
+    max-width: 450px;
+    margin: 0px;
+}
+.paragraph2{
+    color: whitesmoke;
+    font-family: IBM;
+    position: relative;
+    bottom: 440px;
+    left: 1150px;
+    max-width: 450px;
+}
+.header3{
+    font-family: IBM;
+    color: white;
+    font-size: 75px;
+    position: relative;
+    bottom: 440px;
+    left: 1300px;
+    margin: 0px;
+    padding: 0px;
+    width: fit-content;
+}
+
+/* .header3{
+    font-family: IBM;
+    color: white;
+    font-size: 75px;
+    position: relative;
+    top: 160px;
+    left: 100px;
+    margin: 0px;
+    padding: 0px;
+    width: fit-content;
+} */
 
 
 ::-webkit-scrollbar {
