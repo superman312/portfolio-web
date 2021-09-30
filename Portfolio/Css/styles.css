@@ -48,7 +48,7 @@ body {
 }
 .header1{
     font-family: IBM;
-    color: white;
+    color: rgb(82, 82, 82);
     text-align: center;
     font-size: 75px;
     position: relative;
@@ -74,13 +74,32 @@ a:hover{
 .bgtext{
     background-color: #2f4659;
     width: 100%;
+    height: 900px;
+    position: relative;
+    top: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.bgtext2{
+    background-color: #1b2935;
+    width: 100%;
     height: 1000px;
     position: relative;
     top: 400px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-
+}
+.bgtext3{
+    background-color: #006e8c;
+    width: 100%;
+    height: 250px;
+    position: relative;
+    top: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 .header2{
     font-family: IBM;
