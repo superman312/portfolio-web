@@ -2,8 +2,35 @@
     background-color: #2f4659;
     width: 100%;
     height: 1100px;
+    position: relative;
+    top: 60px;
+}
+.cvheader{
+    font-size: 5vw;
+    margin: 0%;
+    padding-top: 25px;
+    color: white;
+    font-family: Glacial;
+    text-align: center;
+    letter-spacing: 7px;
+}
+.infoheaders{
+    font-size: 1.7vw;
+    color: rgb(2, 200, 250);
+    margin-left: 10px;
+    font-family: IBM;
+}
+.infoparagraph{
+    color: white; 
+    margin-left: 10px; 
+    font-family: IBM;
+    font-size: 1vw;
+    max-width: 500px;
+}
+.textcenter{
     display: flex;
     flex-direction: row;
+    align-items: flex-start;
     justify-content: space-evenly;
 }
 
@@ -11,6 +38,7 @@
     background-color: #006e8c;
     width: 100%;
     height: 250px;
+    position: relative;
 }
 .centercontent{
     display: flex;
@@ -29,4 +57,7 @@
 .footerSM{
     width: 50px;
     margin-left: 10px;
+}
+div {
+    margin: 0px;
 }
