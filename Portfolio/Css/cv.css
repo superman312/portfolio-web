@@ -1,64 +1,16 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.bgtext{
+    background-color: #2f4659;
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 
 .bgtext3{
     background-color: #006e8c;
     width: 100%;
     height: 250px;
-    position: relative;
-    top: 400px;
 }
 .centercontent{
     display: flex;
