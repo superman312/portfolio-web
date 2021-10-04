@@ -87,9 +87,6 @@ a:hover{
     height: 1000px;
     position: relative;
     top: 400px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
 }
 .bgtext3{
     background-color: #006e8c;
@@ -97,9 +94,6 @@ a:hover{
     height: 250px;
     position: relative;
     top: 400px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
 }
 .header2{
     font-family: IBM;
@@ -135,6 +129,33 @@ a:hover{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 15px;
+}
+.header4{
+    font-family: IBM;
+    color: white;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 15px;
+}
+.paragraph3{
+    font-family: IBM;
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 500px;
+}
+.textcenter2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.footerimg{
+    width: 75px;
+    margin-top: 10px;
 }
 ::-webkit-scrollbar {
     width: 0.6rem;
