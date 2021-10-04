@@ -1,0 +1,114 @@
+.bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../Img/bgp.jpg);
+    height: 975px;
+}
+.header1{
+    font-family: IBM;
+    color: rgb(82, 82, 82);
+    text-align: center;
+    font-size: 75px;
+    position: relative;
+    top: 175px;
+}
+.bgtext{
+    background-color: #2f4659;
+    width: 100%;
+    height: 900px;
+    position: relative;
+    top: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.textcenter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+.header2{
+    font-family: IBM;
+    color: white;
+    font-size: 75px;
+    margin: 0px;
+    padding: 0px;
+}
+.paragraph{
+    font-family: IBM;
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 500px;
+}
+.header3{
+    font-family: IBM;
+    color: white;
+    font-size: 75px;
+    margin: 0px;
+    padding: 0px;
+}
+.paragraph2{
+    font-family: IBM;
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 500px;
+}
+.bgtext2{
+    background-color: #1b2935;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    top: 400px;
+}
+.textcenter2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.header4{
+    font-family: IBM;
+    color: white;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 15px;
+}
+.paragraph3{
+    font-family: IBM;
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 500px;
+}
+.bgtext3{
+    background-color: #006e8c;
+    width: 100%;
+    height: 250px;
+    position: relative;
+    top: 400px;
+}
+.centercontent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+.footerlogo{
+    width: 75px;
+    margin-top: 10px;
+}
+.footertext{
+    font-family: Glacial;
+    color: white;
+}
+.footerSM{
+    width: 50px;
+    margin-left: 10px;
+}

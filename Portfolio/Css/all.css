@@ -1,0 +1,73 @@
+@font-face {
+    font-family: Glacial;
+    src: url(../Fonts/GlacialIndifference-Regular.otf);
+}
+@font-face {
+    font-family: IBM;
+    src: url(../Fonts/IBMPlexSerif-SemiBold.ttf);
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.navbar {
+    text-align: right;
+    background-color: #006e8c;
+    padding: 5px;
+    padding-right: 50px;
+    font-family: Glacial;
+    position: fixed;
+    top: 0px;
+    width: 97vw;
+    z-index: 2;
+}
+.navbar > *{
+    padding-inline: 20px;
+}
+.navbartext {
+    color: white;
+    text-decoration: none;
+    line-height: 70px;
+    font-size: 19px;
+}
+.img {
+    width: 65px;
+    float: left;
+    margin: 4px;
+    vertical-align: top;
+}
+.div {
+    padding: 0px;
+}
+.active{
+    background-color:#11bbeb;
+    border: #11bbeb solid 10px ;
+    border-radius: 5px 0px 0px 5px;
+}
+.active2{
+    background-color:#11bbeb;
+    border: #11bbeb solid 10px ;
+}
+.active3{
+    background-color:#11bbeb;
+    border: #11bbeb solid 10px ;
+    border-radius: 0px 5px 5px 0px;
+}
+a:hover{
+    color: rgb(0, 131, 253);
+}
+::-webkit-scrollbar {
+    width: 0rem;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #0fe40f;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: darkcyan;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: darkcyan;
+}
+::-webkit-scrollbar-track{
+    background-color: rgba(65, 166, 197, 0);
+}
