@@ -29,11 +29,14 @@
 }
 .textcenter{
     display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.containeralignment{
+    display: flex;
     flex-direction: row;
     align-items: flex-start;
-    justify-content: space-evenly;
 }
-
 .bgtext3{
     background-color: #006e8c;
     width: 100%;

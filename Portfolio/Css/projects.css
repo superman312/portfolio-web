@@ -1,0 +1,16 @@
+.bgtext{
+    background-color: #2f4659;
+    width: 100%;
+    height: 1100px;
+    position: relative;
+    top: 60px;
+}
+.projectheaders{
+    font-size: 5vw;
+    margin: 0%;
+    padding-top: 25px;
+    color: white;
+    font-family: Glacial;
+    text-align: center;
+    letter-spacing: 7px;
+}
