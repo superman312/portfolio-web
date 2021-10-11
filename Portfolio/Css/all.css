@@ -52,7 +52,7 @@ a:hover{
     width: 0rem;
 }
 ::-webkit-scrollbar-thumb {
-    background-color: #0fe40f;
+    background-color: #00000096;
 }
 ::-webkit-scrollbar-thumb:hover {
     background-color: darkcyan;
@@ -61,5 +61,5 @@ a:hover{
     background-color: darkcyan;
 }
 ::-webkit-scrollbar-track{
-    background-color: rgba(65, 166, 197, 0);
+    background-color: transparent;
 }
