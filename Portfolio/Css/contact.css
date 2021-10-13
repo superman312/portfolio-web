@@ -1,0 +1,68 @@
+.bgtext{
+    background-image: linear-gradient(to right, #2f4659, #14578d);
+    width: 100%;
+    height: 950px;
+    position: relative;
+    top: 60px;
+}
+.contact{
+    font-family: Glacial;
+    color: white;
+    font-size: 5vw;
+    margin: 0px;
+    margin-top: 15px;
+    padding: 0px;
+}
+.form{
+    width:640px;
+    height:1100px;
+    position: relative;
+    top: 20px;
+}
+.center2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.infoparagraph{
+    color: white; 
+    margin-left: 10px; 
+    font-family: IBM;
+    font-size: 2.5vw;
+    max-width: 500px;
+}
+.imgcontact{
+    width: 500px;
+}
+.containercenter{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.bgtext3{
+    background-color: #006e8c;
+    width: 100%;
+    height: 250px;
+    position: relative;
+    top: 35px;
+}
+.centercontent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+.footerlogo{
+    width: 75px;
+    margin-top: 10px;
+}
+.footertext{
+    font-family: Glacial;
+    color: white;
+}
+.footerSM{
+    width: 50px;
+    margin-left: 10px;
+}
