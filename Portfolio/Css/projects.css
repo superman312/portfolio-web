@@ -16,14 +16,30 @@
 }
 .placeholderimg{
     width: 30vw;
+    height: 17vw;
     padding-top: 15px;
+}
+.centerprojects{
+    display: flex;
+    flex-direction: column;
+}
+.infohead{
+    color: white;
+    font-family: glacial;
+    font-size: 2.5vw;
+    font-weight: bold;
+    text-decoration: none;
+    max-width: 30vw;
+    align-content: center;
+    margin: 0px;
+    margin-top: 10px;
+    padding: 0px;
 }
 .info{
     color: white;
     font-family: IBM;
     font-size: 1vw;
-    max-width: 30vw;
-    
+    max-width: 30vw;   
 }
 .containeralignment{
     display: flex;
